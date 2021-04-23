@@ -1,0 +1,26 @@
+# this file has some basic linux commands to become familiar
+
+cd- change directory into specific folder
+ls- ls the curent contents of a folder
+pwd- print working directory that you are currently in
+mkdir- create a new directory
+touch- create a new file
+cat- open the file contents in the terminal
+vim- open the file in a the Vim text editor
+rm- delete a file
+rm -rf- remove a directory and all of its contents
+grep- search for a word in a directory
+sudo- become the root user and have access to all commands
+
+
+
+
+
+So, if you want to make this file
+
+mkdir blockchain-prerequisites
+cd blockchain-prerequisites
+mkdir Lesson4
+cd Lesson4
+touch linux.txt
+vim linux.txt # to make changes to the file
